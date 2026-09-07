@@ -4,7 +4,7 @@ Notes
 
 Fragements * Me
 -----------------
-
+Testing [[programming-as-theory]] 
 How **serious** am I? What to me is **sacred**? How far am I 
 willing to go for what I want, and how little am I willing 
 to compromise?
