@@ -67,3 +67,8 @@
 * Honor
 * Reputation
 * Glory
+* Extant - currently or actually existing
+* Transcendent - Going beyond ordinaty limits
+* Transcendental 
+    (a) It is directed towards what is _a priori_ (independent of experience)
+    (b) It concern how what is _a priori_ possible

@@ -1,5 +1,7 @@
 # Attention and focus
 
+There is also a lot to be learnt from philosophers (and writers) about the need for attention (where focus, concentration are properties of). William James  [[attention-by-william-james]], in 1890 already had modern and prospective take on this
+
 ## Anchors and transition states
 
 ### David R. MacIver
@@ -86,3 +88,8 @@ Your allocated task-span (the pomodoro spell) is to either:
    - No meeting til after lunch
    - Wed/Fri no meetings
    - 1/1 on monday afternoon
+
+
+
+
+
